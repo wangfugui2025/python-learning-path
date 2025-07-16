@@ -26,4 +26,4 @@ def guess_number_game():
             print("请输入整数！")
 
 if __name__ == "__main__":
-    guess_number_game()#  任务代码
+    guess_number_game()
